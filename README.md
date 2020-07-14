@@ -1,5 +1,11 @@
 # Java Kata - Part 1: Library
 
+## Solutions hints
+
+* Run by mvn spring-boot:run
+* Request OpenApi service documentation from endpoint /v3/api-docs
+
+##  
 Code kata in Java where you have to write a library of books and magazines.
 
 [A code kata is an exercise in programming which helps a programmer hone their skills through practice and repetition.](https://en.wikipedia.org/wiki/Kata_(programming))
